@@ -14,7 +14,7 @@ The descriptions are structured so someone new to your repository can understand
 ## 📁 **1. CV_lab_1.ipynb**
 
 **🔍 Focus:** Foundational Image Processing Concepts
-**What You Did:**
+**What has Did:**
 
 * Loaded images using OpenCV (`cv2.imread()`)
 * Converted between color spaces (BGR → RGB, Grayscale)
@@ -29,7 +29,7 @@ This notebook introduces how images are structured (channels vs grayscale), how 
 ## 📁 **2. CV_lab_2 (1).ipynb**
 
 **🔍 Focus:** Deep Learning Image Classification with VGG16
-**What You Did:**
+**What has Did:**
 
 * Imported TensorFlow and Keras
 * Loaded the pretrained VGG16 model
@@ -45,7 +45,7 @@ This notebook shows how to use transfer learning to classify images by leveragin
 ## 📁 **3. Classical Face Decation.ipynb**
 
 **🔍 Focus:** Classical Face Detection Techniques
-**What You Did:**
+**What has Did:**
 *(Based on filename — not included in the existing README but inferred from repo)*
 
 * Applied traditional face cascades (like Haar or LBP)
@@ -60,7 +60,7 @@ This notebook focuses on old-school computer vision methods for face detection u
 ## 📁 **4. Classical_CV_Pipeline.ipynb**
 
 **🔍 Focus:** Traditional End-to-End Computer Vision Pipeline
-**What You Did:**
+**What has Did:**
 
 * Built a full pipeline from image load → preprocess → feature extraction
 * Covered image filtering, morphology, and shape extraction
@@ -74,7 +74,7 @@ A broader, structured overview of classical computer vision workflows without de
 ## 📁 **5. feature_detectors.ipynb**
 
 **🔍 Focus:** Detecting Keypoints Using Multiple Algorithms
-**What You Did:**
+**What has Did:**
 
 * Multi-scale Harris Corner Detection (detecting interest points)
 * Implemented FAST (Features from Accelerated Segment Test)
@@ -89,7 +89,7 @@ Shows how to compute image features and refine them for reliable landmark detect
 ## 📁 **6. feature_matching.ipynb**
 
 **🔍 Focus:** Matching Features Between Images
-**What You Did:**
+**What has Did:**
 
 * Extracted SIFT descriptors (float features)
 * Extracted ORB descriptors (binary features)
@@ -104,7 +104,7 @@ This notebook demonstrates matching across images and evaluating corresponding k
 ## 📁 **7. Semantic_Segmentation_U_Net_.ipynb**
 
 **🔍 Focus:** Semantic Segmentation (U-Net)
-**What You Did:**
+**What has Did:**
 
 * Built a U-Net architecture from scratch using TensorFlow/Keras
 * Designed downsampling and upsampling blocks
@@ -120,7 +120,7 @@ You implemented a deep segmentation network to predict masks over medical images
 ## 📁 **8. Yolo8.ipynb**
 
 **🔍 Focus:** Real-Time Object Detection Using YOLOv8
-**What You Did:**
+**What has Did:**
 
 * Used `yt-dlp` to download YouTube videos
 * Loaded the YOLOv8 pretrained model
@@ -136,7 +136,7 @@ Practical YOLO usage for video processing and real-world object detection.
 ## 📁 **9. Xerox Task.ipynb**
 
 **🔍 Focus:** Image Compression Comparison (Lossy vs Lossless)
-**What You Did:**
+**What has Did:**
 
 * Converted images to binary format
 * Performed thresholding to separate foreground from background
@@ -151,7 +151,7 @@ Explores effects of compression and visual quality loss quantitatively.
 ## 📁 **10. Traffic_monitoring.ipynb**
 
 **🔍 Focus:** Monitoring Moving Objects (Traffic)
-**What You Did:**
+**What has Did:**
 
 * Used frame differencing to detect moving vehicles
 * Applied background subtraction
